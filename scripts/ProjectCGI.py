@@ -30,7 +30,7 @@ if (form):
                                  port=4253, 
                                  user='mranawee', 
                                  database='miRNA', 
-                                 password = 'Megaspyguy4')
+                                 password = '*')
     cursor = connection.cursor()
     query = """
             """
